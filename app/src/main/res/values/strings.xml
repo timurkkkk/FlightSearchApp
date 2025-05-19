@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">FlightSearchApp</string>
+    <string name="app_name_top_bar">Flight Search</string>
+    <string name="search_placeholder">Enter airport name or code</string>
+    <string name="search_icon_desc">Search Icon</string>
+    <string name="clear_search_icon_desc">Clear Search Icon</string>
+    <string name="suggestions_title">Suggestions</string>
+    <string name="no_suggestions_found">No suggestions found.</string>
+    <string name="flights_from_title">Flights from %1$s (%2$s)</string>
+    <string name="favorite_routes_title">Favorite Routes</string>
+    <string name="no_flights_found">No flights found for this route.</string>
+    <string name="no_favorites_yet">No favorite routes yet.</string>
+    <string name="depart_label">DEPART</string>
+    <string name="arrive_label">ARRIVE</string>
+    <string name="add_to_favorites">Add to favorites</string>
+    <string name="remove_from_favorites">Remove from favorites</string>
+</resources>
